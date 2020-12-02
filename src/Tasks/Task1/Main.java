@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
-            System.out.println("Введіть число:");
+            System.out.println("Введіть числа :");
             int a = scanner.nextInt();
             switch (a) {
                 case 1: {
